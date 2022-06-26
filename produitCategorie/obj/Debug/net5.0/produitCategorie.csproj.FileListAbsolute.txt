@@ -1,0 +1,208 @@
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\appsettings.json
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.exe
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.deps.json
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.json
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.dev.json
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.AssemblyReference.cache
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfoInputs.cache
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfo.cs
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\scopedcss\bundle\produitCategorie.styles.css
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\staticwebassets\produitCategorie.StaticWebAssets.Manifest.cache
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.RazorTargetAssemblyInfo.cache
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CopyComplete
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.genruntimeconfig.cache
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nam\Desktop\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\appsettings.json
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.exe
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.deps.json
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.json
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.dev.json
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.AssemblyReference.cache
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfoInputs.cache
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfo.cs
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\scopedcss\bundle\produitCategorie.styles.css
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\staticwebassets\produitCategorie.StaticWebAssets.Manifest.cache
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.RazorTargetAssemblyInfo.cache
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CopyComplete
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\A C T U E L\TEST PRODUIT CATEGORIE\produitCategorie\produitCategorie\obj\Debug\net5.0\produitCategorie.genruntimeconfig.cache
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.AssemblyReference.cache
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfoInputs.cache
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfo.cs
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\appsettings.json
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\produitCategorie.exe
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\produitCategorie.deps.json
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.json
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.dev.json
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\scopedcss\bundle\produitCategorie.styles.css
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\staticwebassets\produitCategorie.StaticWebAssets.Manifest.cache
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.RazorTargetAssemblyInfo.cache
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CopyComplete
+C:\Users\nam\Desktop\apitestProduitCategory\produitCategorie\obj\Debug\net5.0\produitCategorie.genruntimeconfig.cache
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\appsettings.json
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\produitCategorie.exe
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\produitCategorie.deps.json
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.json
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\produitCategorie.runtimeconfig.dev.json
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.AssemblyReference.cache
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfoInputs.cache
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.AssemblyInfo.cs
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\scopedcss\bundle\produitCategorie.styles.css
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\staticwebassets\produitCategorie.StaticWebAssets.Manifest.cache
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.RazorTargetAssemblyInfo.cache
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.csproj.CopyComplete
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\ref\produitCategorie.dll
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.pdb
+C:\Users\nam\Desktop\Projet GitHub\GetProductByCategory\api\produitCategorie\obj\Debug\net5.0\produitCategorie.genruntimeconfig.cache
