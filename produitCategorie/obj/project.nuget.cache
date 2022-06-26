@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpBREPcRp0UlUSFJJHa9nbTm7ZAe0Ur1hZwBtF8WJ8w15Y0NOqdK1PD8PsbmpZw4CtFX7wWYPxaz0U1Ct71WBA==",
+  "dgSpecHash": "Bo4OKozG42h4r+9EEtaN6PyMESrkbbDt240qlxrPk5QQbNK06Sgu2wC6oYbiMPAGiS5K/TKVNzuP1C1+o8urog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nam\\Desktop\\Projet GitHub\\GetProductByCategory\\api\\produitCategorie\\produitCategorie.csproj",
+  "projectFilePath": "C:\\Users\\nam\\Desktop\\Projet GItHub\\API_DOTNET\\GetProductByCategory\\api\\produitCategorie\\produitCategorie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nam\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\nam\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
@@ -53,8 +53,7 @@
     "C:\\Users\\nam\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\nam\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\nam\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
-    "C:\\Users\\nam\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\nam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\nam\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
